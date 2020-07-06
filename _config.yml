@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juliane Dannberg"
+title                    : "Rene Gassmoeller"
 title_separator          : "-"
-name                     : &name "Juliane Dannberg"
+name                     : &name "Rene Gassmoeller"
 description              : &description "personal description"
-url                      : https://jdannberg-test.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gassmoeller-test.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jdannberg-test/jdannberg-test.github.io"
+repository               : "gassmoeller-test/gassmoeller-test.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juliane Dannberg"
+  name             : "Rene Gassmoeller"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at University of Florida; Ph.D. in Geophysics (2016)."
+  bio              : "Assistant Professor at University of Florida; Ph.D. in Geophysics (2015)."
   location         : "Department of Geological Sciences<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;University of Florida<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;219 Williamson Hall<br>
@@ -90,8 +90,8 @@ author:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Gainesville, FL 32611, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=QJqgMoEAAAAJ&hl=en&oi=ao"
-  email            : "juliane.dannberg@ufl.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=Vk8SmssAAAAJ&hl=en"
+  email            : "rene.gassmoeller@ufl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,14 +100,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jdannberg"
+  github           : "gassmoeller"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0357-7115"
+  orcid            : "https://orcid.org/0000-0001-7098-8198"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -117,7 +117,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "UC34p2pD2Z_2luErMrbPgOOA"
+  youtube          : "UCG2ogAdh71heem6fPVQCKWA"
   wikipedia        :
 
 
