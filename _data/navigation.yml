@@ -10,7 +10,7 @@ main:
     url: /publications/
 
   - title: "Software"
-    url: /group/
+    url: /software/
 
   - title: "Talks"
     url: /talks/
