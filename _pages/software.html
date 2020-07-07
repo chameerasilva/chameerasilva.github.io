@@ -1,15 +1,43 @@
 ---
-layout: archive
+layout: splash
 title: "Software"
 permalink: /software/
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: banner.png
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: ""
+excerpt: "I develop research software and contribute to a number of scientific software projects. For a complete list of packages I contribute to, please see my Github <a href="https://github.com/gassmoeller"> profile </a>."
+feature_row:
+  - image_path: images/aspect-logo-mesh.png
+    alt: "ASPECT"
+    title: "ASPECT"
+    excerpt: "I am one of the maintainers for the free modeling software ASPECT (Advanced Solver for Problems in Earth's Convection). ASPECT combines modern software development techniques to allow for more sophisticated and better tested geodynamic modelling studies.
+    url: "https://aspect.geodynamics.org"
+
+  - image_path: images/dealii-logo
+    alt: "Deal.II"
+    title: "Deal.II"
+    excerpt: "As consequence of my work on ASPECT I contribute to the finite-element library deal.II whenever contributions to ASPECT are of use to a bigger and more diverse community."
+    url: "https://dealii.org"
+
+  - image_path: images/cig.png
+    title: "Computational Infrastructure for Geodynamics"
+    excerpt: "I am consulting the Computational Infrastructure for Geodynamics on software management, testing, and best practices for software development."
+    url: "https://geodynamics.org"
+
+  - image_path: gallery/plume_with_melt.jpg
+    alt: "Better Scientific Software Communities"
+    title: "Better Scientific Software Communities"
+    excerpt: "As part of my BSSW fellowship (Better Scientific Software), I develop a series of guides for maintainers of scientific community software, called BSSC (Better Scientific Software Communities)." 
+    url: "https://gassmoeller.github.io/BSSC/"
 ---
 
-I develop research software and contribute to a number of scientific software projects. For a complete list of packages I contribute to, please see my Github <a href="https://github.com/gassmoeller"> profile </a>.
+{% include feature_row %}
 
 {% include base_path %}
-
-{% for post in site.software %}
-  {% include archive-single.html %}
-{% endfor %}
 

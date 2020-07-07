@@ -4,3 +4,4 @@ excerpt: "I am one of the maintainers of the mantle convection software ASPECT. 
 collection: portfolio
 ---
 
+I am one of the maintainers for the free modeling software ASPECT (Advanced Solver for Problems in Earth's Convection). ASPECT combines modern software development techniques to allow for more sophisticated and better tested geodynamic modelling studies.
