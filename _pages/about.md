@@ -21,7 +21,7 @@ About me
 Research
 --------
 
-I am a computational geodynamicist and try to improve our understanding of our solid Earth and other planets by developing computer models that describe their deformation history through time. Specifically, I focus on the accuracy and reliability of the mathematical methods and software implementations that scientists use to create these models, and on implementing better models for the physical processes that occur in rocks on Earth. I have published several articles on the interaction between mantle plumes and mid-ocean ridges, the influence of an evolving mineral grain size on the deformation in Earth's mantle, the efficiency and accuracy of particle methods in unstructured adaptively refined computational models, and best practices for developing scientific software.
+I am a computational geodynamicist and work on understanding our solid Earth and other planets by developing computer models that describe their deformation history through time. Specifically, I focus on the accuracy and reliability of the mathematical methods and software implementations that scientists use to create these models, and on implementing better models for the physical processes that occur in rocks on Earth. I have published several articles on the interaction between mantle plumes and mid-ocean ridges, the influence of an evolving mineral grain size on the deformation in Earth's mantle, the efficiency and accuracy of particle methods in unstructured adaptively refined computational models, equations that better capture physical behavior, and best practices for developing scientific software.
 
 
 Software
