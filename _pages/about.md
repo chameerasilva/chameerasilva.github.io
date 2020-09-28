@@ -8,7 +8,7 @@ redirect_from:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: banner.png
+  overlay_image: banner_research.png
   actions:
   caption: ""
 excerpt: "Visiting Assistant Professor for Computational Geodynamics<br/> University of Florida"
