@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture and Computer Lab"
 permalink: /teaching/2018-CIDER-summer-school
 venue: "University of Florida"
-date: 2020-01-13
+date: 2019-12-04
 location: "Gainesville, Florida"
 ---
 
