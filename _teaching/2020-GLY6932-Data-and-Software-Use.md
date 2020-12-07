@@ -30,13 +30,13 @@ Software:
 
 Related courses:
 
-GLY 6862 Quantitative Methods in Earth Sciences
-GLY 4930 Data and Analysis in Natural Sciences
-GLY 4930 Scientific Survival Skills
+- GLY 6862 Quantitative Methods in Earth Sciences
+- GLY 4930 Data and Analysis in Natural Sciences
+- GLY 4930 Scientific Survival Skills
 
 Most relevant material:
 
-https://carpentries.org/
-https://www.nature.com/articles/sdata201618
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
-https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745 
+- https://carpentries.org/
+- https://www.nature.com/articles/sdata201618
+- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
+- https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745 
