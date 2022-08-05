@@ -11,7 +11,7 @@ header:
   overlay_image: banner_research.png
   actions:
   caption: ""
-excerpt: "Visiting Assistant Professor for Computational Geodynamics<br/> University of Florida"
+excerpt: "Scientist in Computational Geodynamics<br/> University of Florida"
 ---
 
 About me
