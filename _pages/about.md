@@ -11,7 +11,7 @@ header:
   overlay_image: banner_research.png
   actions:
   caption: ""
-excerpt: "Scientist in Computational Geodynamics<br/> University of Florida"
+excerpt: "Scientist, Computational Geodynamics<br/> GEOMAR Helmholtz Centre for Ocean Research Kiel"
 ---
 
 About me
@@ -27,7 +27,7 @@ I am a computational geodynamicist and work on understanding our solid Earth and
 Software
 ------
 
-I am a software developer and act as technical lead for the community organization [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org). I am one of the principal developers and maintainers of the free modeling software [ASPECT](https://aspect.geodynamics.org) (Advanced Solver for Problems in Earth's Convection). ASPECT uses modern numerical methods to support research in simulating convection in the Earth's mantle and elsewhere. 
+I am a software developer and one of the principal developers and maintainers of the free modeling software [ASPECT](https://aspect.geodynamics.org) (Advanced Solver for Problems in Earth's Convection). ASPECT uses modern numerical methods to support research in simulating convection in the Earth's mantle and elsewhere. I also contribute as a maintainer to the open-source finite-element framework [deal.II](https://dealii.org).
 I contribute to a number of different [CIG software projects](https://gassmoeller.github.io/software/) and act as a reviewer for scientific software for the [Journal of Open Source Software](https://joss.theoj.org/) and other journals. I was selected as one of the 2019 [Better Scientific Software fellows](https://bssw.io/) by the IDEAS team of the Department of Energy's Exascale Computing Project.
 
 
