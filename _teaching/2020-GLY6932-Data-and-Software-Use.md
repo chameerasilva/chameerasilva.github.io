@@ -8,4 +8,4 @@ date: 2019-12-04
 location: "Gainesville, Florida"
 ---
 
-Test.
+I taught GLY6932 Data and Software Use as a combined undergraduate/graduate level class at the Department of Geological Sciences at the University of Florida.

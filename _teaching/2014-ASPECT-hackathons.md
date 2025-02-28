@@ -8,4 +8,4 @@ date: 2016-01-01
 location: "various states"
 ---
 
-Mentoring, teaching, research, software development on ASPECT hackathons 2016-2020.
+Mentoring, teaching, research, software development on ASPECT hackathons 2016-2024.
