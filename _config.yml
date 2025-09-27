@@ -13,7 +13,7 @@ name                     : &name "Chameera Silva"
 description              : &description "personal description"
 url                      : https://chameerasilva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gassmoeller/gassmoeller.github.io"
+repository               : "chameerasilva/chameerasilva.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,8 +89,8 @@ author:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;TN, 38152, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Vk8SmssAAAAJ&hl=en"
-  email            : "rgassmoeller@geomar.de"
+  googlescholar    : "https://scholar.google.com/citations?user=8Fkwvj0AAAAJ&hl=en"
+  email            : "ksilva2@memphis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gassmoeller"
+  github           : "chameerasilva"
   google_plus      :
   keybase          :
   instagram        :
