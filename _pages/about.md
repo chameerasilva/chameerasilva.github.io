@@ -21,8 +21,11 @@ About me
 Research
 --------
 
-I am a computational geodynamicist and work on understanding our Earth and other planets by developing computer models that describe their deformation history through time. Specifically, I focus on the accuracy and reliability of the mathematical methods and software implementations that scientists use to create these models, and on implementing better models for the physical processes that occur in rocks on Earth. I have published articles on the interaction between mantle plumes and mid-ocean ridges, the influence of an evolving mineral grain size on the deformation in Earth's mantle, the efficiency and accuracy of numerical methods, equations that better capture physical behavior, and best practices for developing scientific software.
+I am a PhD student in computational geodynamics, developing computer models to study how Earth and other planets deform through time. My dissertation research focuses on continental rifting, a fundamental process that shapes continents, creates new ocean basins, and influences Earth’s long-term evolution. Using the open-source ASPECT code and high-performance computing, I build numerical models to explore how temporal variations in plate boundary forces and thermal mantle plumes control the initiation, evolution, and ultimate outcome of rifting.
 
+Beyond my dissertation, I am broadly interested in improving the accuracy and reliability of geodynamic modeling by advancing numerical methods and best practices for scientific software. My work bridges geophysics, geology, and computational science, with the goal of better capturing the physical processes that govern rock deformation and using these insights to understand both Earth and other planetary bodies.
+
+<!-- I am a PhD student in computational geodynamics, developing computer models to study how Earth and other planets deform through time. My dissertation research focuses on continental rifting, a fundamental process that breaks apart continents, initiates new ocean basins, and influences the long-term evolution of our planet. I use numerical models to investigate how temporal variations in plate boundary forces and the presence of thermal mantle plumes shape the initiation, progression, and ultimate outcome of rifting. Through this work, I aim to improve our understanding of why some rifts succeed in forming new oceans while others fail, and what this tells us about the dynamic nature of Earth and other rocky planets. -->
 
 <!-- Software
 --------
