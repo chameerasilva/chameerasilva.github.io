@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rene Gassmoeller"
+  name             : "chameera Silva"
   avatar           : "profile.jpg"
-  bio              : "Scientist at GEOMAR Helmholtz Centre for Ocean Research Kiel; Ph.D. in Geophysics (2015)."
+  bio              : "phD candidate at Center for Earthquake Research and Inofrmation, The University of Memphis."
   location         : "GEOMAR Helmholtz Centre<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;for Ocean Research Kiel<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;Wischhofstr. 1-3<br>
@@ -90,7 +90,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Vk8SmssAAAAJ&hl=en"
-  email            : "rgassmoeller@geomar.de"
+  email            : "ksilva2@memphis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gassmoeller"
+  github           : "chameerasilva"
   google_plus      :
   keybase          :
   instagram        :
