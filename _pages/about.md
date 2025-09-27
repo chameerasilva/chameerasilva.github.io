@@ -8,7 +8,7 @@ redirect_from:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: banner_research.png
+  overlay_image: new_banner.jpeg
   actions:
   caption: ""
 excerpt: "PhD Candidate, Center for Earthquake Research and Information<br/> The University of Memphis"
