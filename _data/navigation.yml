@@ -15,8 +15,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Model Gallery"
-    url: /model-gallery/
+  # - title: "Model Gallery"
+  #   url: /model-gallery/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
