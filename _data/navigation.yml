@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Software"
-    url: /software/
+  # - title: "Software"
+  #   url: /software/
 
   - title: "Talks"
     url: /talks/
 
-  # - title: "Model Gallery"
-  #   url: /model-gallery/
+  - title: "Model Gallery"
+    url: /model-gallery/
 
   # - title: "Teaching"
   #   url: /teaching/
